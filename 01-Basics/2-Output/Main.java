@@ -12,6 +12,6 @@ public class Main {
 
         // we can also use \n for new line
         System.out.print("Mr\nStark");
-    }
+    } 
 
 }
